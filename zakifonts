@@ -1,0 +1,165 @@
+
+/* zaki allali fonts zaki allali fonts https://www.facebook.com/zaki.geek */
+/*------font-----*/
+@font-face {
+font-family:DroidKufi-regular;
+font-style: normal;
+font-weight: 400;
+src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.eot);
+src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.eot?#iefix) format('embedded-opentype'),
+url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.woff2) format('x-woff2'),
+url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.woff) format('woff'),
+url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.ttf) format('truetype');
+}
+@font-face {
+font-family: 'DroidKufi-Bold';
+font-style: normal;
+font-weight: 700;
+src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.eot);
+src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.eot?#iefix) format('embedded-opentype'),
+url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.woff2) format('x-woff2'),
+url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.woff) format('woff'),
+url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.ttf) format('truetype');
+}
+@font-face {
+font-family: 'GE SS Unique';
+src: url('http://www.fontsaddict.com/fontface/ge-ss-unique-light.otf');
+}
+@font-face {
+font-family: "ge";
+src: url('http://www.hawaalive.com/girl-games/themes/default/assets/fonts/ge_dinar.eot');
+src: local("â&#732;?"), url('http://www.hawaalive.com/girl-games/themes/default/assets/fonts/ge_dinar.eot?#iefix') format('embedded-opentype'), url('http://www.hawaalive.com/girl-games/themes/default/assets/fonts/ge_dinar.otf') format('opentype');
+font-weight: normal;
+}
+@font-face {
+font-family: "hacen_liner";
+src: url('http://www.hawaalive.com/girl-games/themes/default/assets/fonts/hacen_liner.eot');
+src: local("â&#732;?"), url('http://www.hawaalive.com/girl-games/themes/default/assets/fonts/hacen_liner.eot?#iefix') format('embedded-opentype'), url('http://www.hawaalive.com/girl-games/themes/default/assets/fonts/hacen_liner.woff');
+font-weight: normal;
+}
+@font-face {
+font-family: 'dkfont';
+font-style: normal;
+font-weight: 400;
+src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.eot);
+src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.eot?#iefix) format('embedded-opentype'),
+url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.woff2) format('woff2'),
+url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.woff) format('woff'),
+url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.ttf) format('truetype');
+}
+@font-face {
+font-family: 'NeoSansW23';
+src: url('http://www.ng4a.com/wp-content/themes/ng4a/fonts/ng4asans-medium/ng4asans-medium.eot');
+src: url('http://www.ng4a.com/wp-content/themes/ng4a/fonts/ng4asans-medium/ng4asans-medium.eot?#iefix') format('embedded-opentype'),
+url('http://www.ng4a.com/wp-content/themes/ng4a/fonts/ng4asans-medium/ng4asans-medium.woff') format('woff'),
+url('http://www.ng4a.com/wp-content/themes/ng4a/fonts/ng4asans-medium/ng4asans-medium.ttf') format('truetype'),
+url('http://www.ng4a.com/wp-content/themes/ng4a/fonts/ng4asans-medium/ng4asans-medium.svg#ng4asans-medium') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'NeoSansW23-Light';
+src: url('http://www.ng4a.com/wp-content/themes/ng4a/fonts/NeoSansW23-light/eccf498f40f4409aa2f90ea06324c255.eot');
+src: url('http://www.ng4a.com/wp-content/themes/ng4a/fonts/NeoSansW23-light/eccf498f40f4409aa2f90ea06324c255.eot?#iefix') format('embedded-opentype'),
+url('http://www.ng4a.com/wp-content/themes/ng4a/fonts/NeoSansW23-light/eccf498f40f4409aa2f90ea06324c255.woff') format('woff'),
+url('http://www.ng4a.com/wp-content/themes/ng4a/fonts/NeoSansW23-light/eccf498f40f4409aa2f90ea06324c255.ttf') format('truetype'),
+url('http://www.ng4a.com/wp-content/themes/ng4a/fonts/NeoSansW23-light/eccf498f40f4409aa2f90ea06324c255.svg#eccf498f40f4409aa2f90ea06324c255') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'GTMR';
+src: url('https://dl.dropboxusercontent.com/u/83505058/ge-ss-med-webfont.eot');
+src: url('https://dl.dropboxusercontent.com/u/83505058/ge-ss-med-webfont.eot?') format('embedded-opentype'),
+url('https://dl.dropboxusercontent.com/u/83505058/ge-ss-med-webfont.woff') format('woff'),
+url('https://dl.dropboxusercontent.com/u/83505058/ge-ss-med-webfont.ttf') format('truetype'); }
+@font-face {
+font-family: 'Droid Arabic Kufi';
+font-style: normal;
+font-weight: 400;
+src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v2/DroidKufi-Regular.eot?#iefix) format('embedded-opentype'),
+url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v2/DroidKufi-Regular.woff) format('woff'),
+url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v2/DroidKufi-Regular.ttf) format('truetype');
+}
+@font-face {
+font-family: "insan";
+src: url('https://colorsstore.com/fonts/708871f8-768c-4f13-9371-1684fb16711f.eot');
+src: local("â&#732;?"), url('https://colorsstore.com/fonts/708871f8-768c-4f13-9371-1684fb16711f.eot?#iefix') format('embedded-opentype'), url('https://colorsstore.com/fonts/708871f8-768c-4f13-9371-1684fb16711f.woff');
+font-weight: normal;
+}
+@font-face {
+font-family: "ge_dinar";
+src: url('http://www.hawaalive.com/girl-games/themes/default/assets/fonts/ge_dinar.eot');
+src: local("â&#732;?"),
+url('http://www.hawaalive.com/girl-games/themes/default/assets/fonts/ge_dinar.eot?#iefix') format('embedded-opentype'),
+url('http://www.hawaalive.com/girl-games/themes/default/assets/fonts/ge_dinar.otf') format('opentype');
+font-weight: normal;
+}
+@font-face {
+font-family: "asad";
+src: url('https://colorsstore.com/fonts/0ab2eaf2-c728-4d1b-ae19-53aa13d5a213.eot');
+src: local("â&#732;?"), url('https://colorsstore.com/fonts/0ab2eaf2-c728-4d1b-ae19-53aa13d5a213.eot?#iefix') format('embedded-opentype'), url('https://colorsstore.com/fonts/0ab2eaf2-c728-4d1b-ae19-53aa13d5a213.woff');
+font-weight: normal;
+}
+@font-face {
+font-family: 'Droid Arabic Naskh';
+font-style: normal;
+font-weight: 400;
+src: url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.eot);
+src: url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.eot?#iefix) format('embedded-opentype'),
+url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.woff2) format('woff2'),
+url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.woff) format('woff'),
+url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.ttf) format('truetype');
+}
+@font-face {
+font-family: 'Droid Arabic Naskh';
+font-style: normal;
+font-weight: 700;
+src: url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Bold.eot);
+src: url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Bold.eot?#iefix) format('embedded-opentype'),
+url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Bold.woff2) format('woff2'),
+url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Bold.woff) format('woff'),
+url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Bold.ttf) format('truetype');
+}
+@font-face {
+font-family: 'Helvetica';
+src: url('https://googledrive.com/host/0B1EkoAU4dJXCMWkyY1ZTT1ZfRzg/');
+}
+/* arabic */
+@font-face {
+  font-family: 'Droid Arabic Kufi1';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Droid Arabic Kufi'), local('DroidArabicKufi'), url(http://fonts.gstatic.com/s/droidarabickufi/v9/8W45GN15zj1qR-20QwKIxiKSV-Ah0rqIJGGXMFuEE8A.woff2) format('woff2');
+  unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+FB50-FDFF, U+FE80-FEFC;
+}
+
+@font-face {
+font-family: 'ges';
+src: url('https://dl.dropboxusercontent.com/u/83505058/ge-ss-med-webfont.eot');
+src: url('https://dl.dropboxusercontent.com/u/83505058/ge-ss-med-webfont.eot?') format('embedded-opentype'),
+url('https://dl.dropboxusercontent.com/u/83505058/ge-ss-med-webfont.woff') format('woff'),
+url('https://dl.dropboxusercontent.com/u/83505058/ge-ss-med-webfont.ttf') format('truetype');
+}
+@font-face {
+font-family: "yassir";
+src: url('http://www.hawaalive.com/girl-games/themes/default/assets/fonts/ge_dinar.eot');
+src: local("â&#ù32;º"), url('http://www.hawaalive.com/girl-games/themes/default/assets/fonts/ge_dinar.eot?#iefix') format('embedded-opentype'), url('http://www.hawaalive.com/girl-games/themes/default/assets/fonts/ge_dinar.otf') format('opentype');
+font-weight: normal;
+}
+@font-face {
+font-family: 'DroidKufi-Bold';
+font-style: normal;
+font-weight: 700;
+src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.eot);
+src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.eot?#iefix) format('embedded-opentype'),
+url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.woff2) format('x-woff2'),
+url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.woff) format('woff'),
+url(//themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.ttf) format('truetype');
+}
+@font-face {
+font-family: "hacen_liner";
+src: url('http://www.hawaalive.com/girl-games/themes/default/assets/fonts/hacen_liner.eot');
+src: local("â&#732;º"), url('http://www.hawaalive.com/girl-games/themes/default/assets/fonts/hacen_liner.eot?#iefix') format('embedded-opentype'), url('http://www.hawaalive.com/girl-games/themes/default/assets/fonts/hacen_liner.woff');
+font-weight: normal;
+}
